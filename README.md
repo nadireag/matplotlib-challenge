@@ -1,6 +1,6 @@
 # Matplotlib-Challenge
 
-## Pymaceuticals Instructions
+## Pymaceuticals Analysis
 
 Using Pandas, Matplotlib and Jupyter Notebook analiyze the data and create visualizations.
 
