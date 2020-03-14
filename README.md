@@ -9,3 +9,11 @@ Using Pandas, Matplotlib and Jupyter Notebook analiyze the data and create visua
 * Create a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
 * Create a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
 * Include 3 observations about the results of the study. 
+
+![image](Images/Spread.png)
+
+![image](Images/change.png)
+
+![image](Images/treatment.png)
+
+![image](Images/survival.png)
